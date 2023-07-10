@@ -27,6 +27,8 @@ We recommend using Dawn as a starting point for theme development. [Learn more o
 
 > If you're building a theme for the Shopify Theme Store, then you can use Dawn as a starting point. However, the theme that you submit needs to be [substantively different from Dawn](https://shopify.dev/themes/store/requirements#uniqueness) so that it provides added value for merchants. Learn about the [ways that you can use Dawn](https://shopify.dev/themes/tools/dawn#ways-to-use-dawn).
 
+Please note that the main branch may include code for features not yet released. The "stable" version of Dawn is available in the theme store.
+
 ## Staying up to date with Dawn changes
 
 Say you're building a new theme off Dawn but you still want to be able to pull in the latest changes, you can add a remote `upstream` pointing to this Dawn repository.
